@@ -1,0 +1,45 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-omop.js
+inputModule2:
+  class: File
+  path: python/allergic-and-chronic-rhinitis-house---primary.py
+inputModule3:
+  class: File
+  path: python/allergic-and-chronic-rhinitis-allergen---primary.py
+inputModule4:
+  class: File
+  path: python/rhinitis---primary.py
+inputModule5:
+  class: File
+  path: python/allergy-allergic-and-chronic-rhinitis---primary.py
+inputModule6:
+  class: File
+  path: python/allergic-and-chronic-rhinitis---primary.py
+inputModule7:
+  class: File
+  path: python/allergic-and-chronic-rhinitis-pollinosis---primary.py
+inputModule8:
+  class: File
+  path: python/allergic-and-chronic-rhinitis-pollens---primary.py
+inputModule9:
+  class: File
+  path: python/allergic-and-chronic-rhinitis-fever---primary.py
+inputModule10:
+  class: File
+  path: python/allergic-and-chronic-rhinitis-rhinosinusitis---primary.py
+inputModule11:
+  class: File
+  path: python/allergic-and-chronic-rhinitis-asthma---primary.py
+inputModule12:
+  class: File
+  path: python/seasonal-allergic-and-chronic-rhinitis---primary.py
+inputModule13:
+  class: File
+  path: python/other-allergic-and-chronic-rhinitis---primary.py
+inputModule14:
+  class: File
+  path: python/allergic-and-chronic-rhinitis-unspecified---primary.py
+inputModule15:
+  class: File
+  path: python/output-cases.py
